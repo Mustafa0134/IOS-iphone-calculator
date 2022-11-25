@@ -6,6 +6,9 @@
 # How to test (for chrome browser)
 
 -Open index.html file on your browser.
+
 -Right click on the page and click inspect.
+
 -Open Chrome DevTools.
+
 -Select Iphone XR as a dimension
